@@ -1,12 +1,12 @@
-## Sugestões de Séries e Receitas
+# Sugestões de Séries e Receitas
 
 Neste site você irá receber diversas sugestões de Séries e Receitas para suas horas vagas, entre nos links abaixo e divirta-se!!
 
-### Séries
+## Séries
 
 Conheça algumas recomendações de séries, contendo sinopses e trailers!
 
-# Breking Bad
+### Breking Bad
 
 -  Walter White é um professor de química
     na casa dos 50 anos que trabalha em uma escola secundária
@@ -26,7 +26,7 @@ Conheça algumas recomendações de séries, contendo sinopses e trailers!
 
 **Bold** and _Italic_ and `Code` text
 
-[https://youtu.be/Pev38s3xPgM"target="_blank](url) and ![Image](src)
+[Trailer](https://youtu.be/Pev38s3xPgM"target="_blank) and ![Imagem](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
