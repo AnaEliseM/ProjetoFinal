@@ -1,4 +1,4 @@
-# Sugestões de Séries e Receitas
+# Sugestões de Séries, Documentários e Receitas
 
 Neste site você irá receber diversas sugestões de Séries e Receitas para suas horas vagas, entre nos links abaixo e divirta-se!!
 
@@ -79,7 +79,7 @@ Para mais detalhes, veja em [AdoroCinema](https://www.adorocinema.com/series/ser
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AnaEliseM/ProjetoFinal/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 # Estudantes
-*Ana Elise do Nascimento Marques 
+**Ana Elise do Nascimento Marques**
 
 *Ana Beatriz Pinheiro Porciúncula
 
