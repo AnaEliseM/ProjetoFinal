@@ -27,7 +27,7 @@ Conheça algumas recomendações de séries, contendo sinopses e trailers!
 
 **Bold** and _Italic_ and `Code` text
 
-[Trailer](https://youtu.be/Pev38s3xPgM"target="_blank) e ![Imagem]  (https://user-images.githubusercontent.com/99209348/172228900-b3fa87cf-dc0a-4589-8e64-2524c27341af.png)
+[Trailer](https://youtu.be/Pev38s3xPgM"target="_blank) e ![Imagem](https://user-images.githubusercontent.com/99209348/172228900-b3fa87cf-dc0a-4589-8e64-2524c27341af.png)
 
 
 Para mais detalhes, veja em [AdoroCinema](https://www.adorocinema.com/series/serie-3517/).
@@ -44,9 +44,9 @@ Para mais detalhes, veja em [AdoroCinema](https://www.adorocinema.com/series/ser
      
    
       
-- _Disponível em: `Amazon Prime Video, GloboPlay`_
+- _Disponível em: Amazon Prime Video, GloboPlay_
 
-[Trailer](https://youtu.be/OXcCS6b8NuA) e ![Imagem]  (https://user-images.githubusercontent.com/99209348/172229888-c6db73d5-26f3-4a3c-a11a-f0271d4753c3.png)
+[Trailer](https://youtu.be/OXcCS6b8NuA) e ![Imagem](https://user-images.githubusercontent.com/99209348/172229888-c6db73d5-26f3-4a3c-a11a-f0271d4753c3.png)
 
 
 
