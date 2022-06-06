@@ -1,0 +1,27 @@
+body{
+  font-family: Courier New, cursive, Tahoma, Arial, sans-serif;
+  background-color: #F2F964;
+  color: #F77F08;
+}
+h2{
+  color: #F64B25;
+  background-color: #FBF79D;
+  padding: 5px 600px;
+  border: 3px solid #F77F08;
+  width: auto;
+}
+p{
+  color: #F77F08;
+}
+h3{
+  color: #F64B25;
+  border-bottom: 3px solid #F77F08;
+  background-color: #FBF79D;
+}
+h4{
+    color: #F64B25;
+    border-bottom: 3px solid #F77F08;
+}
+ul{
+  color: #F64B25;
+}

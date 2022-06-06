@@ -1,0 +1,31 @@
+body{
+  background-color: #E74C3C;
+  font-family: Courier New, cursive, Tahoma, Arial, sans-serif;
+}
+h2{
+  background-color: #FADBD8;
+  border: 3px solid #030D37;
+  color: #C4050B;
+  padding: 5px 475px;
+  width: auto;
+}
+h4{
+  background-color:#FADBD8;
+  border: 3px solid #030D37;
+  color: #C4050B;
+  width: auto;
+}
+h3{
+  background-color: #F78D8D;
+  border-bottom: 3px solid #030D37;
+  color: #C4050B;
+}
+li{
+  color: #FADBD8;
+  background-color: #030D37;
+  padding: 1px 560px;
+}
+a{
+  color: #FADBD8;
+  background-color: #030D37;
+}
