@@ -1,4 +1,4 @@
-# Sugestões de Séries e Receitas
+# Sugestões de Séries, Documentários e Receitas
 
 Neste site você irá receber diversas sugestões de Séries e Receitas para suas horas vagas, entre nos links abaixo e divirta-se!!
 
@@ -21,7 +21,7 @@ Conheça algumas recomendações de séries, contendo sinopses e trailers!
       desafios, incluindo o fato de seu concunhado ser um
       importante nome dentro da Agência Anti-Drogas da região. (Adoro Cinema)
       
-- _Disponível em: `Netflix_
+- _Disponível em: Netflix_
 
 
 
@@ -46,7 +46,9 @@ Para mais detalhes, veja em [AdoroCinema](https://www.adorocinema.com/series/ser
       
 - _Disponível em: Amazon Prime Video, GloboPlay_
 
-[Trailer](https://youtu.be/OXcCS6b8NuA) e ![Imagem](https://user-images.githubusercontent.com/99209348/172229888-c6db73d5-26f3-4a3c-a11a-f0271d4753c3.png)
+[Trailer](https://youtu.be/OXcCS6b8NuA) e ![Imagem](https://user-images.githubusercontent.com/99209348/172238125-577a4c5b-8618-49d5-872d-663b246ffd02.png)
+
+
 
 
 
@@ -68,28 +70,20 @@ Para mais detalhes, veja em [AdoroCinema](https://www.adorocinema.com/series/ser
       
 - _Disponível em: Amazon Prime Video, GloboPlay, Netflix_
 
-[Trailer](https://youtu.be/aogZUDx51vQ) e ![Imagem]  (https://user-images.githubusercontent.com/99209348/172230696-584d594d-9c97-4e68-a1c4-606eff5a16ba.png)
+[Trailer](https://youtu.be/aogZUDx51vQ) e ![Imagem](https://user-images.githubusercontent.com/99209348/172230696-584d594d-9c97-4e68-a1c4-606eff5a16ba.png)
+
 
 Para mais detalhes, veja em [AdoroCinema](https://www.adorocinema.com/series/serie-6085/).
 
-## Documentários
 
-### Terráqueos
-
--  Terráqueos é um documentário sobre a absoluta dependência da
-      humanidade em animais (para companhia, comida, roupa, entretenimento, e
-      pesquisa científica) mas também demonstra nosso completo desrespeito
-      por estes chamados “provedores não-humanos.”
-      
-      Disponível aqui: youtu.be/_GGBFv0zw18"target="_blank"
-      Trailer: https://www.youtube.com/watch?v=7Ipx1aDqhfk"target="_blank"
-      
 # Receitas
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AnaEliseM/ProjetoFinal/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 # Estudantes
-Ana Elise do Nascimento Marques 
-Ana Beatriz Pinheiro Porciúncula
-Estela Silva de Andrade
+**Ana Elise do Nascimento Marques**
+
+**Ana Beatriz Pinheiro Porciúncula**
+
+**Estela Silva de Andrade**
 
