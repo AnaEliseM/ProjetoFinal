@@ -46,7 +46,8 @@ Para mais detalhes, veja em [AdoroCinema](https://www.adorocinema.com/series/ser
       
 - _Disponível em: Amazon Prime Video, GloboPlay_
 
-[Trailer](https://youtu.be/OXcCS6b8NuA) e ![Imagem](https://user-images.githubusercontent.com/99209348/172229888-c6db73d5-26f3-4a3c-a11a-f0271d4753c3.png)
+[Trailer](https://youtu.be/OXcCS6b8NuA) e ![Imagem](https://user-images.githubusercontent.com/99209348/172237306-c368d79c-e5f4-44a7-9966-98ce536d4f92.png)
+
 
 
 
@@ -68,7 +69,7 @@ Para mais detalhes, veja em [AdoroCinema](https://www.adorocinema.com/series/ser
       
 - _Disponível em: Amazon Prime Video, GloboPlay, Netflix_
 
-[Trailer](https://youtu.be/aogZUDx51vQ) e ![Imagem]  (https://user-images.githubusercontent.com/99209348/172230696-584d594d-9c97-4e68-a1c4-606eff5a16ba.png)
+[Trailer](https://youtu.be/aogZUDx51vQ) e ![Imagem](https://user-images.githubusercontent.com/99209348/172230696-584d594d-9c97-4e68-a1c4-606eff5a16ba.png)
 
 
 Para mais detalhes, veja em [AdoroCinema](https://www.adorocinema.com/series/serie-6085/).
