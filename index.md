@@ -6,7 +6,7 @@ Neste site você irá receber diversas sugestões de Séries e Receitas para sua
 
 Conheça algumas recomendações de séries, contendo sinopses e trailers!
 
-### Breking Bad
+### Breaking Bad
 
 -  Walter White é um professor de química
     na casa dos 50 anos que trabalha em uma escola secundária
@@ -20,16 +20,18 @@ Conheça algumas recomendações de séries, contendo sinopses e trailers!
       do ex-aluno e pequeno traficante Jesse e enfrenta vários
       desafios, incluindo o fato de seu concunhado ser um
       importante nome dentro da Agência Anti-Drogas da região. (Adoro Cinema)
+      
 - _Disponível em: Netflix_
 
 
 
 **Bold** and _Italic_ and `Code` text
 
-[Trailer](https://youtu.be/Pev38s3xPgM"target="_blank) and ![Imagem](src)
+[Trailer](https://youtu.be/Pev38s3xPgM"target="_blank) and ![Imagem](https://user-images.githubusercontent.com/99209348/172228900-b3fa87cf-dc0a-4589-8e64-2524c27341af.png)
+)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Para mais detalhes, veja em [AdoroCinema](https://www.adorocinema.com/series/serie-3517/).
 
 # Receitas
 
