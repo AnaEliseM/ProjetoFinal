@@ -1,14 +1,11 @@
 ## Sugestões de Séries e Receitas
 
-Neste site iremos abordar sobre
-     as coisas que mais gosto, falaremos sobre comida,
-   música, séries e documentários.
+Neste site você irá receber diversas sugestões de Séries e Receitas para suas horas vagas, entre nos links abaixo e divirta-se!!
 
 ### Séries
 
 Conheça algumas recomendações de séries, contendo sinopses e trailers!
 
-    <p><a href="https://youtu.be/Pev38s3xPgM"target="_blank">Trailer</a></p>
 # Breking Bad
 ## Header 2
 ### Header 3
@@ -36,10 +33,10 @@ Conheça algumas recomendações de séries, contendo sinopses e trailers!
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Receitas
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AnaEliseM/ProjetoFinal/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Estudantes
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
