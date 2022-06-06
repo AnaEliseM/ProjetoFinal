@@ -7,8 +7,6 @@ Neste site você irá receber diversas sugestões de Séries e Receitas para sua
 Conheça algumas recomendações de séries, contendo sinopses e trailers!
 
 # Breking Bad
-## Header 2
-### Header 3
 
 -  Walter White é um professor de química
     na casa dos 50 anos que trabalha em uma escola secundária
@@ -22,7 +20,7 @@ Conheça algumas recomendações de séries, contendo sinopses e trailers!
       do ex-aluno e pequeno traficante Jesse e enfrenta vários
       desafios, incluindo o fato de seu concunhado ser um
       importante nome dentro da Agência Anti-Drogas da região. (Adoro Cinema)
-- Disponível em: Netflix
+- _Disponível em: Netflix_
 
 
 
@@ -33,10 +31,10 @@ Conheça algumas recomendações de séries, contendo sinopses e trailers!
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Receitas
+# Receitas
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AnaEliseM/ProjetoFinal/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Estudantes
+#Estudantes
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
