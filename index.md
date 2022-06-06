@@ -66,7 +66,7 @@ Para mais detalhes, veja em [AdoroCinema](https://www.adorocinema.com/series/ser
     que tem como fruto a filha adotiva Lily (Adoro Cinema)
    
       
-- _Disponível em: `Amazon Prime Video, GloboPlay, Netflix`_
+- _Disponível em: Amazon Prime Video, GloboPlay, Netflix_
 
 [Trailer](https://youtu.be/aogZUDx51vQ) e ![Imagem]  (https://user-images.githubusercontent.com/99209348/172230696-584d594d-9c97-4e68-a1c4-606eff5a16ba.png)
 
@@ -78,6 +78,8 @@ Para mais detalhes, veja em [AdoroCinema](https://www.adorocinema.com/series/ser
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AnaEliseM/ProjetoFinal/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-#Estudantes
+# Estudantes
+Ana Elise do Nascimento Marques 
+Ana Beatriz Pinheiro Porciúncula
+Estela Silva de Andrade
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
