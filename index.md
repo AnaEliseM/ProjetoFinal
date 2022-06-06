@@ -1,29 +1,37 @@
-## Sugestões de Filmes e Receitas
+## Sugestões de Séries e Receitas
 
 Neste site iremos abordar sobre
      as coisas que mais gosto, falaremos sobre comida,
    música, séries e documentários.
 
-### Markdown
+### Séries
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Conheça algumas recomendações de séries, contendo sinopses e trailers!
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
+    <p><a href="https://youtu.be/Pev38s3xPgM"target="_blank">Trailer</a></p>
+# Breking Bad
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+-  Walter White é um professor de química
+    na casa dos 50 anos que trabalha em uma escola secundária
+    no Novo México. Para atender às necessidades de Skyler, sua esposa grávida, e Walt Junior, seu filho deficiente físico, ele tem que
+    trabalhar duplamente.Sua vida fica ainda mais complicada
+    quando descobre que está sofrendo de um câncer de pulmão
+    incurável. Para aumentar rapidamente a quantidade de
+    dinheiro que deixaria para sua família após sua morte,
+    Walter usa seu conhecimento de química para fazer e vender
+     metanfetamina, uma droga sintética. Ele conta com a ajuda
+      do ex-aluno e pequeno traficante Jesse e enfrenta vários
+      desafios, incluindo o fato de seu concunhado ser um
+      importante nome dentro da Agência Anti-Drogas da região. (Adoro Cinema)
+- Disponível em: Netflix
 
-1. Numbered
-2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[https://youtu.be/Pev38s3xPgM"target="_blank](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
