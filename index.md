@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Sugestões de Filmes e Receitas
 
-You can use the [editor on GitHub](https://github.com/AnaEliseM/ProjetoFinal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Neste site iremos abordar sobre
+     as coisas que mais gosto, falaremos sobre comida,
+   música, séries e documentários.
 
 ### Markdown
 
