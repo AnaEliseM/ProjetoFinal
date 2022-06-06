@@ -21,7 +21,7 @@ Conheça algumas recomendações de séries, contendo sinopses e trailers!
       desafios, incluindo o fato de seu concunhado ser um
       importante nome dentro da Agência Anti-Drogas da região. (Adoro Cinema)
       
-- _Disponível em: `Netflix_
+- _Disponível em: Netflix_
 
 
 
@@ -79,7 +79,9 @@ Para mais detalhes, veja em [AdoroCinema](https://www.adorocinema.com/series/ser
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AnaEliseM/ProjetoFinal/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 # Estudantes
-Ana Elise do Nascimento Marques 
-Ana Beatriz Pinheiro Porciúncula
-Estela Silva de Andrade
+*Ana Elise do Nascimento Marques 
+
+*Ana Beatriz Pinheiro Porciúncula
+
+*Estela Silva de Andrade
 
