@@ -81,7 +81,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 # Estudantes
 **Ana Elise do Nascimento Marques**
 
-*Ana Beatriz Pinheiro Porciúncula
+**Ana Beatriz Pinheiro Porciúncula**
 
-*Estela Silva de Andrade
+**Estela Silva de Andrade**
 
