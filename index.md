@@ -21,13 +21,10 @@ Conheça algumas recomendações de séries, contendo sinopses e trailers!
       desafios, incluindo o fato de seu concunhado ser um
       importante nome dentro da Agência Anti-Drogas da região. (Adoro Cinema)
       
-- _Disponível em: `Netflix_
+- _Disponível em: Netflix_
 
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Trailer](https://youtu.be/Pev38s3xPgM"target="_blank) e ![Imagem](https://user-images.githubusercontent.com/99209348/172228900-b3fa87cf-dc0a-4589-8e64-2524c27341af.png)
+[Trailer](https://youtu.be/Pev38s3xPgM"target="_blank) 
+<br />![Imagem](https://user-images.githubusercontent.com/99209348/172228900-b3fa87cf-dc0a-4589-8e64-2524c27341af.png)
 
 
 Para mais detalhes, veja em [AdoroCinema](https://www.adorocinema.com/series/serie-3517/).
@@ -46,7 +43,8 @@ Para mais detalhes, veja em [AdoroCinema](https://www.adorocinema.com/series/ser
       
 - _Disponível em: Amazon Prime Video, GloboPlay_
 
-[Trailer](https://youtu.be/OXcCS6b8NuA) e ![Imagem](https://user-images.githubusercontent.com/99209348/172229888-c6db73d5-26f3-4a3c-a11a-f0271d4753c3.png)
+[Trailer](https://youtu.be/OXcCS6b8NuA)
+<br />![Imagem](https://user-images.githubusercontent.com/99209348/172229888-c6db73d5-26f3-4a3c-a11a-f0271d4753c3.png)
 
 
 
@@ -68,7 +66,8 @@ Para mais detalhes, veja em [AdoroCinema](https://www.adorocinema.com/series/ser
       
 - _Disponível em: Amazon Prime Video, GloboPlay, Netflix_
 
-[Trailer](https://youtu.be/aogZUDx51vQ) e ![Imagem]  (https://user-images.githubusercontent.com/99209348/172230696-584d594d-9c97-4e68-a1c4-606eff5a16ba.png)
+[Trailer](https://youtu.be/aogZUDx51vQ) 
+<br />![Imagem](https://user-images.githubusercontent.com/99209348/172230696-584d594d-9c97-4e68-a1c4-606eff5a16ba.png)
 
 Para mais detalhes, veja em [AdoroCinema](https://www.adorocinema.com/series/serie-6085/).
 
