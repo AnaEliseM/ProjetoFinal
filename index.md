@@ -101,6 +101,8 @@ Veja essas recomendações de receitas para acompanhar os filmes e séries que i
 
 ### Guacamole
 
+<br />![Imagem](https://chefinhanatural.com.br/wp-content/uploads/2021/07/guacamole2-500x500.jpg)
+
 #### Ingredientes:
 -½ abacate
 <br />-¼ de cebola bem picada
@@ -109,12 +111,15 @@ Veja essas recomendações de receitas para acompanhar os filmes e séries que i
 <br />-1 colher de chá de pimenta calabresa
 <br />-1 fio de azeite
 <br />-sal a gosto
+<br />-coentro a gosto
 
 #### Modo de Preparo:
-1. Em uma vasilha amasse o abacate e adicione o limão e um fio de azeite.
-<br />2. Coloque o restante dos ingredientes e misture, experimente para ver se a quantidade de sal é suficiente e está pronto!
+1- Em uma vasilha amasse o abacate e adicione o limão e um fio de azeite.
+<br />2- Coloque o restante dos ingredientes e misture, experimente para ver se a quantidade de sal é suficiente e está pronto!
 
 ### Bolo de Milho
+
+![Imagem](https://s2.glbimg.com/8lS31tAfC9B7hGuOTbJATOnzNlM=/0x0:1080x608/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2022/U/m/XTO9f0QeOL7UHkc5TJtQ/capa-materia-gshow.jpg)
 
 #### Ingredientes:
 -2 xícaras milho cozido
@@ -128,11 +133,11 @@ Veja essas recomendações de receitas para acompanhar os filmes e séries que i
 <br />-1 colher de chá de fermento em pó
 
 #### Modo de Preparo:
-1. Pré-aqueça o forno a 200 graus C.
-<br />2. Misture em um copo a farinha de trigo com a água e deixe descansar pro 10 minutos
-<br />3. Enquanto isso, adicione no liquidificador o restante dos ingredientes exceto o coco ralado, bata até formar uma mistura homogênea.
-<br />4. Adicione o coco ralado depois e a mistura da farinha na massa e misturar.
-<br />5. Unte uma forma com óleo e fubá e leve ao forno de 35 a 40 minutos.
+1- Pré-aqueça o forno a 200 graus C.
+<br />2- Misture em um copo a farinha de trigo com a água e deixe descansar pro 10 minutos
+<br />3- Enquanto isso, adicione no liquidificador o restante dos ingredientes exceto o coco ralado, bata até formar uma mistura homogênea.
+<br />4- Adicione o coco ralado depois e a mistura da farinha na massa e misturar.
+<br />5- Unte uma forma com óleo e fubá e leve ao forno de 35 a 40 minutos.
 
 
 # Estudantes
