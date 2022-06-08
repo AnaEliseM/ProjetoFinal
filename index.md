@@ -23,7 +23,7 @@ Conheça algumas recomendações de séries, contendo sinopses e trailers!
       
 - _Disponível em: Netflix_
 
-[Trailer](https://www.youtube.com/watch?v=2-W6_6gJda0&t=4s) 
+- [Trailer](https://www.youtube.com/watch?v=2-W6_6gJda0&t=4s) 
 <br />![Imagem](https://user-images.githubusercontent.com/99209348/172228900-b3fa87cf-dc0a-4589-8e64-2524c27341af.png)
 
 
@@ -43,7 +43,7 @@ Para mais detalhes, veja em [AdoroCinema](https://www.adorocinema.com/series/ser
       
 - _Disponível em: Amazon Prime Video, GloboPlay_
 
-[Trailer](https://youtu.be/OXcCS6b8NuA)
+- [Trailer](https://youtu.be/OXcCS6b8NuA)
 <br />![Imagem](https://user-images.githubusercontent.com/99209348/172229888-c6db73d5-26f3-4a3c-a11a-f0271d4753c3.png)
 
 
@@ -66,7 +66,7 @@ Para mais detalhes, veja em [AdoroCinema](https://www.adorocinema.com/series/ser
       
 - _Disponível em: Amazon Prime Video, GloboPlay, Netflix_
 
-[Trailer](https://globoplay.globo.com/v/7831923/) 
+- [Trailer](https://globoplay.globo.com/v/7831923/) 
 <br />![Imagem](https://user-images.githubusercontent.com/99209348/172230696-584d594d-9c97-4e68-a1c4-606eff5a16ba.png)
 
 Para mais detalhes, veja em [AdoroCinema](https://www.adorocinema.com/series/serie-6085/).
