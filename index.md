@@ -23,7 +23,7 @@ Conheça algumas recomendações de séries, contendo sinopses e trailers!
       
 - _Disponível em: Netflix_
 
-[Trailer](https://youtu.be/Pev38s3xPgM"target="_blank) 
+[Trailer](https://www.youtube.com/watch?v=2-W6_6gJda0&t=4s) 
 <br />![Imagem](https://user-images.githubusercontent.com/99209348/172228900-b3fa87cf-dc0a-4589-8e64-2524c27341af.png)
 
 
@@ -66,7 +66,7 @@ Para mais detalhes, veja em [AdoroCinema](https://www.adorocinema.com/series/ser
       
 - _Disponível em: Amazon Prime Video, GloboPlay, Netflix_
 
-[Trailer](https://youtu.be/aogZUDx51vQ) 
+[Trailer](https://globoplay.globo.com/v/7831923/) 
 <br />![Imagem](https://user-images.githubusercontent.com/99209348/172230696-584d594d-9c97-4e68-a1c4-606eff5a16ba.png)
 
 Para mais detalhes, veja em [AdoroCinema](https://www.adorocinema.com/series/serie-6085/).
@@ -80,9 +80,9 @@ Para mais detalhes, veja em [AdoroCinema](https://www.adorocinema.com/series/ser
       pesquisa científica) mas também demonstra nosso completo desrespeito
       por estes chamados “provedores não-humanos.”
       
-      Disponível aqui: youtu.be/_GGBFv0zw18
+      Disponível aqui: https://youtu.be/_GGBFv0zw18
       
-      Trailer: https://www.youtube.com/watch?v=7Ipx1aDqhfk
+      Trailer: https://youtu.be/PF0jeXSE_Mk
       
 ### Meninas
 
