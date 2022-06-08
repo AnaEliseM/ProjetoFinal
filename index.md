@@ -147,9 +147,5 @@ Veja essas recomendações de receitas para acompanhar os filmes e séries que i
 
 
 # Estudantes
-Ana Elise do Nascimento Marques 
-
-Ana Beatriz Pinheiro Porciúncula
-
-Estela Silva de Andrade
+Ana Elise do Nascimento Marques, Ana Beatriz Pinheiro Porciúncula, Estela Silva de Andrade
 
