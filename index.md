@@ -95,9 +95,45 @@ Para mais detalhes, veja em [AdoroCinema](https://www.adorocinema.com/series/ser
       
       Trailer: https://youtu.be/aXcUDO6CcnQ
       
-# Receitas
+## Receitas
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AnaEliseM/ProjetoFinal/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Veja essas recomendações de receitas para acompanhar os filmes e séries que indicamos.
+
+### Guacamole
+
+#### Ingredientes:
+-½ abacate
+<br />-¼ de cebola bem picada
+<br />-½ tomate
+<br />-½ limão
+<br />-1 colher de chá de pimenta calabresa
+<br />-1 fio de azeite
+<br />-sal a gosto
+
+#### Modo de Preparo:
+1. Em uma vasilha amasse o abacate e adicione o limão e um fio de azeite.
+<br />2. Coloque o restante dos ingredientes e misture, experimente para ver se a quantidade de sal é suficiente e está pronto!
+
+### Bolo de Milho
+
+#### Ingredientes:
+-2 xícaras milho cozido
+<br />-3/4 xícara açúcar
+<br />-1 xícara leite de coco
+<br />-1 xícara de fubá
+<br />-1/3 xícara de água
+<br />-1/4 xícara de óleo
+<br />-4 colheres de sopa farinha de trigo
+<br />-2 colheres de sopa coco ralado
+<br />-1 colher de chá de fermento em pó
+
+#### Modo de Preparo:
+1. Pré-aqueça o forno a 200 graus C.
+<br />2. Misture em um copo a farinha de trigo com a água e deixe descansar pro 10 minutos
+<br />3. Enquanto isso, adicione no liquidificador o restante dos ingredientes exceto o coco ralado, bata até formar uma mistura homogênea.
+<br />4. Adicione o coco ralado depois e a mistura da farinha na massa e misturar.
+<br />5. Unte uma forma com óleo e fubá e leve ao forno de 35 a 40 minutos.
+
 
 # Estudantes
 Ana Elise do Nascimento Marques 
