@@ -80,9 +80,12 @@ Para mais detalhes, veja em [AdoroCinema](https://www.adorocinema.com/series/ser
       pesquisa científica) mas também demonstra nosso completo desrespeito
       por estes chamados “provedores não-humanos.”
       
-      Disponível aqui: https://youtu.be/_GGBFv0zw18
+      Disponível no [YouTube](https://youtu.be/_GGBFv0zw18) 
       
-      Trailer: https://youtu.be/PF0jeXSE_Mk
+      [Trailer](https://youtu.be/PF0jeXSE_Mk) 
+      
+      <br />![Imagem](https://user-images.githubusercontent.com/99209348/172695343-b5fdf197-fcd1-410a-b627-95a03acc4f01.png)
+
       
 ### Meninas
 
@@ -91,9 +94,12 @@ Para mais detalhes, veja em [AdoroCinema](https://www.adorocinema.com/series/ser
       14 anos, espera um filho de Alex, que também engravidou Joice.
       MENINAS acompanha por um ano o cotidiano dessas jovens.
       
-      Disponível aqui: https://youtu.be/bXbToN1lLPY
+      Disponível no [YouTube](https://youtu.be/bXbToN1lLPY) 
       
-      Trailer: https://youtu.be/aXcUDO6CcnQ
+      [Trailer](https://youtu.be/aXcUDO6CcnQ) 
+      
+      <br />![Imagem](https://user-images.githubusercontent.com/99209348/172695742-1771236b-45e5-49db-a8b5-5fb03d895fd6.png)
+
       
 ## Receitas
 
@@ -142,6 +148,8 @@ Veja essas recomendações de receitas para acompanhar os filmes e séries que i
 
 # Estudantes
 Ana Elise do Nascimento Marques 
+
 Ana Beatriz Pinheiro Porciúncula
+
 Estela Silva de Andrade
 
